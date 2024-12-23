@@ -1,0 +1,6 @@
+#hero-section {
+  background-image: url("/images/banner.png");
+  height: 670px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
